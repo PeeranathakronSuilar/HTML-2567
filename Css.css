@@ -1,0 +1,15 @@
+body{
+    background-color: antiquewhite;
+}
+
+thead {
+    background-color: rgb(255, 181, 92);
+}
+
+tbody {
+    background-color: burlywood;
+}
+
+.price {
+    color: darkred;
+}
